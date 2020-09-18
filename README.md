@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a Java developer currently helping with the [Dynamic Trees](https://github.com/ferreusveritas/DynamicTrees) mod and creating add-ons for it.
+I am a Java developer currently working on many projects, namely my dynamic trees add-ons, which can be seen below in the `Popular Repositories` section.
 
 <!--
 **Harleyoc1/Harleyoc1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
