@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a Java developer currently working on many projects, namely [dynamic trees](https://github.com/ferreusveritas/DynamicTrees) and its add-ons, a few of which can be seen below in the `Popular Repositories` section.
+I am a Java developer currently working on many projects, namely [dynamic trees](https://github.com/ferreusveritas/DynamicTrees) and its add-ons, some of which can be seen below in the `Pinned Repositories` section.
 
 <!--
 **Harleyoc1/Harleyoc1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
