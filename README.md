@@ -24,3 +24,7 @@
   <img src="https://github.com/Harleyoc1/GitHubStats/blob/master/generated/overview.svg?raw=true" />
   <img src="https://github.com/Harleyoc1/GitHubStats/blob/master/generated/languages.svg?raw=true" />
 </p>
+
+<p align="center"> 
+  <em>Statistics generated daily by <a href="https://github.com/jstrieb/github-stats">GitHub Stats</a>.</em>
+</p>
