@@ -13,7 +13,7 @@
 
 <br>
 <p align="center">
-  I am a Java developer working on various projects, the most prominent of which can be found in the pins below.
+  A Computer Science graduate mainly working on projects in Java, Python, and C++. 
 </p>
 
 <h1 align="center">
