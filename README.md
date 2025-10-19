@@ -13,7 +13,7 @@
 
 <br>
 <p align="center">
-  A Computer Science graduate mainly working on projects in Java, Python, and C++. 
+  I am a Software Engineer with experience in Java, Python, and C++. 
 </p>
 
 <h1 align="center">
